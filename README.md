@@ -43,7 +43,6 @@ Lakukan *clone* pada repositori ini dan instal semua *library* yang dibutuhkan:
 Menjalankan Aplikasi terlebih dahulu agar API menyala dan dapat terbaca.
 ```bash
     python app.py
-        
 ```
 Setelah dijalankan akses link URL di panel "Ports"
 ```bash
