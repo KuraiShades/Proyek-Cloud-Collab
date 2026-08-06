@@ -40,9 +40,14 @@ Lakukan *clone* pada repositori ini dan instal semua *library* yang dibutuhkan:
 ```
 
 ### 2. Menjalankan Telemetry API
-
+Menjalankan Aplikasi terlebih dahulu agar API menyala dan dapat terbaca.
 ```bash
-
+    python app.py
+        
+```
+Setelah dijalankan akses link URL di panel "Ports"
+```bash
+    https://reimagined-space-waddle-qv99gx9prx59hxp76-5000.app.github.dev/api/telemetry?key=password_key
 ```
 
 ### 3. Menjalakan data pipeline
